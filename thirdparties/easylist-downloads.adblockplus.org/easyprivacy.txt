@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Checksum: x1vyvrMpg25tJW0O37HjbA
-! Version: 201610041121
+! Checksum: PlBnG2Ib+SVqaelWwCkozQ
+! Version: 201610050151
 ! The contents of this filter list are fetched from the EasyPrivacy repository: https://github.com/easylist/easylist/tree/master/easyprivacy
 ! Title: EasyPrivacy
-! Last modified: 04 Oct 2016 11:21 UTC
+! Last modified: 05 Oct 2016 01:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3045,6 +3045,7 @@ _mongo_stats/
 ||adku.co^$third-party
 ||adku.com^$third-party
 ||admantx.com^$third-party
+||admitad.com^$third-party
 ||adobetag.com^$third-party
 ||adoftheyear.com^$third-party
 ||adprotraffic.com^$third-party
@@ -4270,7 +4271,6 @@ _mongo_stats/
 ||predictivedna.com^$third-party
 ||predictiveresponse.net^$third-party
 ||prfct.co^$third-party
-||primetag.net^$third-party
 ||prnx.net^$third-party
 ||proclivitysystems.com^$third-party
 ||profilertracking3.com^$third-party

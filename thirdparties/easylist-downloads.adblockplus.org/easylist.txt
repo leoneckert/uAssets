@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: sDWpAGnxhufcA3GJkG4w6g
-! Version: 201610041120
+! Checksum: OD5fuiw1AsMJgZD84JWC2Q
+! Version: 201610050150
 ! The contents of this filter list are fetched from the EasyList repository: https://github.com/easylist/easylist
 ! Title: EasyList
-! Last modified: 04 Oct 2016 11:20 UTC
+! Last modified: 05 Oct 2016 01:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -25749,6 +25749,10 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ad-srv.net^$third-party
 ||ad-stir.com^$third-party
 ||ad-vice.biz^$third-party
+||ad.admitad.com/banner/$third-party
+||ad.admitad.com/f/$third-party
+||ad.admitad.com/fbanner/$third-party
+||ad.admitad.com/j/$third-party
 ||ad.atdmt.com/i/a.html$third-party
 ||ad.atdmt.com/i/a.js$third-party
 ||ad.doubleclick.net^$~object-subrequest,third-party
@@ -25947,7 +25951,6 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||admeld.com^$third-party
 ||admeta.com^$third-party
 ||admission.net^$third-party
-||admitad.com^$third-party
 ||admixer.net^$third-party
 ||admngronline.com^$third-party
 ||admpads.com^$third-party
@@ -28476,6 +28479,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||prf.hn^$third-party
 ||prickac.com^$third-party
 ||primaryads.com^$third-party
+||primetag.net^$third-party
 ||pritesol.com^$third-party
 ||privilegebedroomlate.xyz^$third-party
 ||prizel.com^$third-party
