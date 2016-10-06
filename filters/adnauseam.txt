@@ -141,3 +141,7 @@ wsj.com##DIV[class*="nativo-placement"]
 wsj.com##IFRAME[id*="_mN_dy"]
 wsj.com##DIV[class*="sponsoredSections"]
 
+#time.com
+time.com###celtra-banner
+
+
