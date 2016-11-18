@@ -184,3 +184,6 @@ usatoday.com##section#module-position-8
 
 #dev.opera.com/search
 dev.opera.com##.gsc-adBlock
+
+#batmanstream.com
+batmanstream.com##iframe[src*="bannerflow"]
